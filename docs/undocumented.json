@@ -1,52 +1,31 @@
 {
   "warnings": [
     {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/BaseClasses/BaseViewModel.swift",
-      "line": 14,
-      "symbol": "BaseViewModel.init()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/BaseClasses/Protocols/ViewModel.swift",
-      "line": 13,
-      "symbol": "ViewModel.SVC",
-      "symbol_kind": "source.lang.swift.decl.associatedtype",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/BaseClasses/Protocols/ViewModel.swift",
-      "line": 14,
-      "symbol": "ViewModel.network",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/Localize.swift",
-      "line": 16,
-      "symbol": "Localize.General.flashScooters",
+      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FlashScooters/Global.swift",
+      "line": 45,
+      "symbol": "Configuration.defaultEnvironment",
       "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/Services/NetworkProvider.swift",
-      "line": 25,
-      "symbol": "NetworkProvider.init(with:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FlashScooters/Models/TimeStamp.swift",
+      "line": null,
+      "symbol": "FSTimeStamp",
+      "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/Services/NetworkProvider.swift",
-      "line": 30,
-      "symbol": "NetworkProvider.init(session:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FlashScooters/Services/VehicleEndpoints.swift",
+      "line": 13,
+      "symbol": "VehicleAPI.vehicles",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FSCoreKit/Services/StubProvider.swift",
-      "line": 16,
-      "symbol": "StubProvider.init()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "file": "/Users/punchee/Documents/personal/learning/flash/FlashScooters/FlashScooters/Services/VehicleEndpoints.swift",
+      "line": 14,
+      "symbol": "VehicleAPI.vehicle(id:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     }
   ],
